@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"/>
 </p>
 
 <h1>Azure Resource Group and Storage Account</h1>
