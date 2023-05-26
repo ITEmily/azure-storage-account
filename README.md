@@ -32,6 +32,9 @@ This tutorial outlines the creation of a Storage Account in a Resource Group wit
 Step 1: Log into your Microsoft Azure account and search for Resource Groups.
 </p>
 <br />
+<br />
+<br />
+<br />
 
 <p>
 <img src="https://i.imgur.com/JZQ3EV7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -39,6 +42,9 @@ Step 1: Log into your Microsoft Azure account and search for Resource Groups.
 <p>
 Step 2: Click on the "Create Resource Group" button.
 </p>
+<br />
+<br />
+<br />
 <br />
 
 
@@ -48,6 +54,10 @@ Step 2: Click on the "Create Resource Group" button.
 <p>
 Step 3: Name your Resource Group, Review and then click "Create."
 <br />
+<br />
+<br />
+<br />
+
 
  <p>
 <img src="https://i.imgur.com/K9TujyJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -56,6 +66,9 @@ Step 3: Name your Resource Group, Review and then click "Create."
 Step 4: Search for "Storage Account."  Once in the Storage Account page, click on "Create Storage Account" button.
 </p>
 <br /> 
+<br />
+<br />
+<br />
   
   
 <p>
@@ -65,6 +78,9 @@ Step 4: Search for "Storage Account."  Once in the Storage Account page, click o
 Step 5: When you create the new Storage Account, make sure you are selecting the Resource Group name that you just created.
 </p>
 <br />
+<br />
+<br />
+<br />
 
 <p>
 <img src="https://i.imgur.com/PbGAMSQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -72,6 +88,9 @@ Step 5: When you create the new Storage Account, make sure you are selecting the
 <p>
 Step 6: Open up the new Storage Account and Click on "Containers" on the left side of the screeen.
 </p>
+<br />
+<br />
+<br />
 <br />
 
 <p>
@@ -81,6 +100,9 @@ Step 6: Open up the new Storage Account and Click on "Containers" on the left si
 Step 7: Find the "Container +" option at the top of the Container page and click it to name and create a new container.  (Containers are like folders that hold your uploaded documents.)
 </p>
 <br />
+<br />
+<br />
+<br />
 
 <p>
 <img src="https://i.imgur.com/EB3d85r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -88,6 +110,9 @@ Step 7: Find the "Container +" option at the top of the Container page and click
 <p>
 Step 8: Select your newly created Container.
 </p>
+<br />
+<br />
+<br />
 <br />
 
 <p>
