@@ -11,7 +11,7 @@ This tutorial outlines the creation of a Storage Account in a Resource Group wit
 - Microsoft Azure
 
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Steps to Setting up a Storage Account in Microsoft Azure</h2>
 
 - Step 1: Log into your Microsoft Azure account and search for Resource Groups. 
 - Step 2: Click on the "Create Resource Group" button. 
@@ -19,11 +19,12 @@ This tutorial outlines the creation of a Storage Account in a Resource Group wit
 - Step 4: Search for "Storage Account."  Once in the Storage Account page, click on "Create Storage Account" button.
 - Step 5: When you create the new Storage Account, make sure you are selecting the Resource Group name that you just created.
 - Step 6: Open up the new Storage Account and Click on "Containers" on the left side of the screeen.
-- Step 7: Find the "Container +" option at the top of the Container page and click it to name and create a new container.
+- Step 7: Find the "+ Container" option at the top of the Container page and click it to name and create a new container.
 - Step 8: Select your newly created Container.
 - Step 9:  Click on "Upload" to upload your documents into the Storage Account.
+<br />
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Storage Account Tutorial</h2>
 
 <p>
 <img src="https://i.imgur.com/41ZHa1q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -97,7 +98,7 @@ Step 6: Open up the new Storage Account and Click on "Containers" on the left si
 <img src="https://i.imgur.com/Y2sacJG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 7: Find the "Container +" option at the top of the Container page and click it to name and create a new container.  (Containers are like folders that hold your uploaded documents.)
+Step 7: Find the "+ Container" option at the top of the Container page and click it to name and create a new container.  (Containers are like folders that hold your uploaded documents.)
 </p>
 <br />
 <br />
