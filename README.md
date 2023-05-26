@@ -8,7 +8,7 @@ This tutorial outlines the creation of a Storage Account in a Resource Group wit
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
