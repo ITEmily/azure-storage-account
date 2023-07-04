@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <p align="center">
-<img src="https://i.imgur.com/x6rtUt0.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/Onpztl5.png" alt="osTicket logo"/>
 </p>
 
 <h1>Azure Resource Group and Storage Account</h1>
